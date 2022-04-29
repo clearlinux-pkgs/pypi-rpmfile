@@ -4,7 +4,7 @@
 #
 Name     : pypi-rpmfile
 Version  : 1.0.8
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/23/79/27e50c988bfbfabb75d17bff6cf1ae351104c3446e5a592823ff2a155505/rpmfile-1.0.8.tar.gz
 Source0  : https://files.pythonhosted.org/packages/23/79/27e50c988bfbfabb75d17bff6cf1ae351104c3446e5a592823ff2a155505/rpmfile-1.0.8.tar.gz
 Summary  : Read rpm archive files
@@ -15,9 +15,6 @@ Requires: pypi-rpmfile-license = %{version}-%{release}
 Requires: pypi-rpmfile-python = %{version}-%{release}
 Requires: pypi-rpmfile-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-Provides: rpmfile
-Provides: rpmfile-python
-Provides: rpmfile-python3
 BuildRequires : pypi(setuptools)
 BuildRequires : pypi(setuptools_scm)
 BuildRequires : pypi(wheel)
@@ -73,7 +70,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641491432
+export SOURCE_DATE_EPOCH=1651253963
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
