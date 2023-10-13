@@ -5,7 +5,7 @@
 #
 Name     : pypi-rpmfile
 Version  : 1.1.1
-Release  : 18
+Release  : 19
 URL      : https://files.pythonhosted.org/packages/df/a1/4ef3aba6c4c23e38b0ec766f0cd01c9db4abbe6febaa557b47541dc18000/rpmfile-1.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/df/a1/4ef3aba6c4c23e38b0ec766f0cd01c9db4abbe6febaa557b47541dc18000/rpmfile-1.1.1.tar.gz
 Summary  : Read rpm archive files
