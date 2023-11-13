@@ -1,5 +1,5 @@
 PKG_NAME := pypi-rpmfile
-URL = https://files.pythonhosted.org/packages/df/a1/4ef3aba6c4c23e38b0ec766f0cd01c9db4abbe6febaa557b47541dc18000/rpmfile-1.1.1.tar.gz
+URL = https://files.pythonhosted.org/packages/1e/7a/21711cc95ba2a0209d53e6c62eea8c7f000a093e6cf398e668cb8c0e934e/rpmfile-2.0.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
